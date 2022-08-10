@@ -24,6 +24,9 @@ con git add
 3er estado (registro de todos los archivos)
 
 
+agrego un comentario nuevo para subir cambios 
+
+
 
 
 
